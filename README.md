@@ -2,6 +2,8 @@
 
 A full-stack web application for managing a product store built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
+For development process, see [DEVLOG.md](DEVLOG.md)
+
 ## Features
 
 - **Product Management**: Create, read, update, and delete products
