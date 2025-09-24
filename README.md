@@ -71,11 +71,22 @@ Before running this application, make sure you have the following installed:
 
 ### Development Mode
 
+**Start Backend (Terminal 1):**
+
 ```bash
+# In root directory
 npm run dev
 ```
 
-This will start both the backend server (with nodemon for auto-restart) and the frontend development server.
+**Start Frontend (Terminal 2):**
+
+```bash
+# In root directory
+cd frontend
+npm run dev
+```
+
+_Note: Run these commands in separate terminals for optimal development experience._
 
 ### Production Mode
 
