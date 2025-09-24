@@ -16,18 +16,32 @@ A full-stack web application for managing a product store built with the MERN st
 ### Frontend
 
 - **React**: UI library for building the user interface
-- **Vite**: Fast build tool and development server
-- **Chakra UI**: Component library for styling and UI components
-- **React Router**: Client-side routing
-- **Zustand**: State management
-- **Framer Motion**: Animations
+- **Vite**: Fast build tool and development server with hot module replacement
+- **Chakra UI**: Modern component library providing pre-built, accessible UI components
+- **React Router DOM**: Declarative routing for React applications
+- **Zustand**: Lightweight state management library with minimal boilerplate
+- **Framer Motion**: Production-ready motion library for React animations
+- **React Icons**: Popular icon library with support for multiple icon sets
+- **Emotion**: CSS-in-JS library for styling components
+
+**Development Tools:**
+
+- **ESLint**: JavaScript/TypeScript linter for code quality
+- **TypeScript**: Static type checking for JavaScript
+- **Vite Plugin React**: Vite plugin for React support
 
 ### Backend
 
-- **Node.js**: JavaScript runtime
-- **Express.js**: Web framework for building the API
-- **MongoDB**: NoSQL database
-- **Mongoose**: ODM for MongoDB
+- **Node.js**: JavaScript runtime environment for server-side development
+- **Express.js**: Minimal and flexible web framework for Node.js
+- **MongoDB**: NoSQL document database for storing application data
+- **Mongoose**: Object Document Mapper (ODM) for MongoDB with schema validation
+- **dotenv**: Environment variable loader for configuration management
+- **cross-env**: Cross-platform environment variable setting
+
+**Development Tools:**
+
+- **nodemon**: Development tool that automatically restarts the server on file changes
 
 ## Prerequisites
 
