@@ -2,6 +2,8 @@
 
 A full-stack web application for managing a product store built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
+This project is currently running on [https://mern-product-store-83dr.onrender.com/].
+
 For development process, see [DEVLOG.md](DEVLOG.md)
 
 ## Features
