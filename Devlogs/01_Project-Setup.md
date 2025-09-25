@@ -1,4 +1,4 @@
-# 專案設定 / Project Setup (筆記)
+# 專案設定 / Project Setup
 
 - [中文版 — 專案初始設定](#zh)
 - [English — Project Setup](#en)
