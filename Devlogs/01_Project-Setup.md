@@ -126,7 +126,7 @@ app.listen(PORT, () => {
 
 <a name="en"></a>
 
-## English — Project Setup
+## English Version — Project Setup
 
 ### Goal
 
