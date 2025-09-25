@@ -46,11 +46,9 @@ import { ChakraProvider } from "@chakra-ui/react";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
-      <ChakraProvider>
-        <App />
-      </ChakraProvider>
-    </BrowserRouter>
+    <ChakraProvider>
+      <App />
+    </ChakraProvider>
   </StrictMode>
 );
 ```
@@ -58,6 +56,7 @@ createRoot(document.getElementById("root")).render(
 ### 移除不必要檔案
 
 - 刪除 `App.css` 與 `index.css`。
+- 刪除 `src/assets`。
 - 在 `App.jsx` 檔案中，移除預設不需要之 import。
 - 清空 `function App()` 內之 `return`，並新增一個 `Button` 元件以進行測試。
 
@@ -121,11 +120,9 @@ import { ChakraProvider } from "@chakra-ui/react";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
-      <ChakraProvider>
-        <App />
-      </ChakraProvider>
-    </BrowserRouter>
+    <ChakraProvider>
+      <App />
+    </ChakraProvider>
   </StrictMode>
 );
 ```
@@ -133,6 +130,7 @@ createRoot(document.getElementById("root")).render(
 ### Remove Unnecessary Files
 
 - Delete `App.css` and `index.css`.
+- Delete `src/assets`.
 - In `App.jsx`, remove default imports that are not needed.
 - Clear the return inside `function App()` and add a `Button` component to test.
 
