@@ -17,7 +17,7 @@
 
 <a name="en"></a>
 
-## English - Title
+## English Version - Title
 
 ### Goal
 
