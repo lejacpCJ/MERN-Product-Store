@@ -7,11 +7,7 @@
 
 <a name="zh"></a>
 
-## 中文版
-
-### 標題 / Title
-
-- （在此填入本篇的短標題）
+## 中文版 - 標題
 
 ### 目標
 
@@ -35,11 +31,7 @@
 
 <a name="en"></a>
 
-## English
-
-### Title
-
-- (Short title for this entry)
+## English - Title
 
 ### Goal
 
