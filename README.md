@@ -4,7 +4,7 @@ A full-stack web application for managing a product store built with the MERN st
 
 This project is currently running on [MERN Product Store](https://mern-product-store-83dr.onrender.com/)
 
-For development process, see [DEVLOG.md](DEVLOG.md)
+For development process, see [Devlogs](/Devlogs/)
 
 ## Features
 
